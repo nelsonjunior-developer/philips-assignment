@@ -1,0 +1,7 @@
+# Configuring the products-catalog-api
+spring:
+  application:
+    name: products-catalog-api
+
+server:
+  port: 8082
